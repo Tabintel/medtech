@@ -1,0 +1,29 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Force LF line endings for these files
+*.dart text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.txt text eol=lf
+
+# Force binary for these files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg binary
+*.pdf binary
+*.zip binary
+*.jar binary
+*.class binary
+*.so binary
+*.dll binary
+*.exe binary
+*.dylib binary
