@@ -1,6 +1,6 @@
 # Stream Chat Token Server (Node.js)
 
-This is a minimal Node.js backend for generating Stream Chat JWT tokens for production use with your MedTalk Flutter app.
+This is a Node.js backend for generating Stream Chat JWT tokens for production use with your MedTalk Flutter app.
 
 ---
 
